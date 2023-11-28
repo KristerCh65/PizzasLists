@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWGaXl8y2YPE48Src2pjNy6+6PbIdFttlp2JBJrCKyd3taRFz30gI9py++huDyLVwavJodjot/fN+bHW22+Y9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KristerMunguia\\Documents\\PizzasWebApi\\PizzasWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\KristerMunguia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F1VMSqWJQaraVxz7WQyt8DdYXb/FW4ZcCVmIEiFofWQ=",
+  "Source": "PizzasWebApi",
+  "BasePath": "_content/PizzasWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
